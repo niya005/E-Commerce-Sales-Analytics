@@ -97,7 +97,7 @@ Several business questions were explored using SQL:
 
 ### Product Analysis
 
-![Product Analysis]([Dashboard\Pg2_Product_Analysis.png](https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg2_Product_Analysis.png?raw=true))
+![Product Analysis](https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg2_Product_Analysis.png?raw=true)
 * Best Selling Sizes
 * Top Selling Colors
 * Revenue by Category and Size
@@ -107,7 +107,7 @@ Several business questions were explored using SQL:
 
 ### Customer & Geography
 
-![Customer & Geography]([Dashboard\Pg3_Customer&Geography.png](https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg3_Customer&Geography.png?raw=true))
+![Customer & Geography](https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg3_Customer&Geography.png?raw=true)
 
 * Revenue Heatmap Across India
 * Top States by Revenue
@@ -118,7 +118,7 @@ Several business questions were explored using SQL:
 ---
 
 ### Inventory & Operations
-![Inventory & Operations]([Dashboard\Pg4_Inventory&Operations.png](https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg4_Inventory&Operations.png?raw=true))
+![Inventory & Operations]((https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg4_Inventory&Operations.png?raw=true))
 
 * Inventory KPIs
 * Active SKUs
