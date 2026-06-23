@@ -84,7 +84,7 @@ Several business questions were explored using SQL:
 
 ### Executive Overview
 
-![Executive Overview]([Dashboard\Pg1_Executive_Overview.png](https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg1_Executive_Overview.png?raw=true))
+![Executive Overview](https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg1_Executive_Overview.png?raw=true)
 * Total Revenue
 * Total Orders
 * Monthly Revenue Trend
