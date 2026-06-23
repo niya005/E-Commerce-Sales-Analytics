@@ -84,7 +84,7 @@ Several business questions were explored using SQL:
 
 ### Executive Overview
 
-![Executive Overview](Dasboard SS\Pg1_Executive Overview.png)
+![Executive Overview](Dashboard\Pg1_Executive_Overview.png)
 * Total Revenue
 * Total Orders
 * Monthly Revenue Trend
@@ -97,7 +97,7 @@ Several business questions were explored using SQL:
 
 ### Product Analysis
 
-![Product Analysis](Dasboard SS\Pg2_Product Analysis.png)
+![Product Analysis](Dashboard\Pg2_Product_Analysis.png)
 * Best Selling Sizes
 * Top Selling Colors
 * Revenue by Category and Size
@@ -107,7 +107,7 @@ Several business questions were explored using SQL:
 
 ### Customer & Geography
 
-![Customer & Geography](Dasboard SS\Pg3_Customer&Geography.png)
+![Customer & Geography](Dashboard\Pg3_Customer&Geography.png)
 
 * Revenue Heatmap Across India
 * Top States by Revenue
@@ -118,7 +118,7 @@ Several business questions were explored using SQL:
 ---
 
 ### Inventory & Operations
-![Inventory & Operations](Dasboard SS\Pg4_Inventory&Operations.png)
+![Inventory & Operations](Dashboard\Pg4_Inventory&Operations.png)
 
 * Inventory KPIs
 * Active SKUs
