@@ -118,7 +118,7 @@ Several business questions were explored using SQL:
 ---
 
 ### Inventory & Operations
-![Inventory & Operations]((https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg4_Inventory&Operations.png?raw=true))
+![Inventory & Operations](https://github.com/niya005/E-Commerce-Sales-Analytics/blob/main/Dashboard/Pg4_Inventory&Operations.png?raw=true)
 
 * Inventory KPIs
 * Active SKUs
